@@ -6,9 +6,11 @@ http://jbennett.cs.loyola.edu/personalProjects/project6/html/
 
 Images of project 
 
-![alt text](https://github.com/jdbennett94/To-Do-Checklist/Image-Sub/Screenshot_2021-02-09-To-Do-List(1).png)
+![alt text](https://github.com/jdbennett94/To-Do-Checklist/blob/master/Image%20Sub/Screenshot_2021-02-09%20To%20Do%20List(1).png)
 
-Image Sub/Screenshot_2021-02-09 To Do List(1).png
+https://github.com/jdbennett94/To-Do-Checklist/blob/master/Image%20Sub/Screenshot_2021-02-09%20To%20Do%20List(2).png
 
+https://github.com/jdbennett94/To-Do-Checklist/blob/master/Image%20Sub/Screenshot_2021-02-09%20To%20Do%20List(3).png
 
+https://github.com/jdbennett94/To-Do-Checklist/blob/master/Image%20Sub/Screenshot_2021-02-09%20To%20Do%20List.png
 
