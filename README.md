@@ -3,13 +3,15 @@ Implementation of a "To Do List" using HTML, CSS, JS
 Live Demo: http://jbennett.cs.loyola.edu/personalProjects/project6/html/  
 
 # How To Use
-Click the link above and enter/type in a task into the txt filed and press [ENTER] .  
 
-Adding tasks: You can add subsequent tasks by typing in further individual statments into the text field at the top and pressing [ENTER] .   
+***Click the link above*** and enter/type in a task into the txt filed and press [ENTER] .  
 
-Mark A Task As Complete: To mark tasks as completed click the checkmarks on the right side of a task and it will shift to the completed section.   
-
-Remove an Incomplete Task Or Complete Task: On the right side of a task card, click the trash icon to remove it from each respective task
+**Adding tasks:***   
+You can add subsequent tasks by typing in further individual statments into the text field at the top and pressing [ENTER] .   
+***Mark A Task As Complete:***   
+To mark tasks as completed click the checkmarks on the right side of a task and it will shift to the completed section.   
+***Remove an Incomplete Task Or Complete Task:***  
+On the right side of a task card, click the trash icon to remove it from each respective task
 
 # Technologies Used  
 - HTML5  
